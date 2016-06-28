@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "495145660064",
+    "project_id": "pbtry-7a102"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495145660064:android:2b5f9112469659d3",
+        "android_client_info": {
+          "package_name": "com.mayank.gtry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495145660064-9057vbbg3luoj3l60tha2kddfhco2d1m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mayank.gtry",
+            "certificate_hash": "A627B3BFBB0445E40C2B20333EAF0E6565558ACB"
+          }
+        },
+        {
+          "client_id": "495145660064-lkon7676r8hrhulejhltp9bri9dovk5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8bwBNLb620mozlaU2TYeL8kfDRPeIvLQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
