@@ -1,0 +1,7 @@
+Google Plus Integration(To generate SHA1)
+
+
+Command: keytool -exportcert -list -v \
+-alias androiddebugkey -keystore ~/.android/debug.keystore
+
+Password: android
